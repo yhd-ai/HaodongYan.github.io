@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Haodong Yan / Personal website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Haodong Yan"
 description              : &description "personal description"
 url                      : https://yhd-ai.github.io/HaodongYan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
