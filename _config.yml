@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rnGkKIMAAAAJ&hl=en&oi=ao"
   email            : "k610215095@stu.xjtu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Haodong-Yan"
+  researchgate     :  "https://www.researchgate.net/profile/Haodong-Yan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yhd-ai?tab=repositories"
+  github           : "https://github.com/yhd-ai/"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCql058XWuN5t1IPBAxO4nMw"
   wikipedia        :
 
 
